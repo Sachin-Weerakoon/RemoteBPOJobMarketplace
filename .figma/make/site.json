@@ -1,0 +1,10 @@
+{
+  "description": "A trusted marketplace connecting remote BPO job seekers with verified employers, with tailored job search, guided applications, and tools to manage hiring.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
